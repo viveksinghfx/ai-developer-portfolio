@@ -1,0 +1,7 @@
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+langgraph>=0.1.0
+openai>=1.0.0
+duckduckgo-search>=5.0.0
+python-dotenv>=1.0.0
