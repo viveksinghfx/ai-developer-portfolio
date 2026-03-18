@@ -9,7 +9,7 @@
 
 <br/>
 
-> **"A Houdini network and a LangGraph are the same data structure — a directed graph of composable nodes.**
+> **"A Houdini network and a LangGraph are the same data structure: a directed graph of composable nodes.**
 > **I switched from simulating fire to orchestrating reasoning."**
 
 <br/>
@@ -31,7 +31,7 @@
 
 ## 👋 Who I Am
 
-I'm **Vivek Singh** — an **Agentic AI & GenAI Engineer** who spent 3 years building procedural FX pipelines for Hollywood productions *(Transformers, Ant-Man, Crater)* at Technicolor India and Harikatha Studio, and pivoted that exact systems-thinking discipline into production AI architecture.
+I'm **Vivek Singh** !! an **Agentic AI & GenAI Engineer** who spent 3 years building procedural FX pipelines for Hollywood productions *(Transformers, Ant-Man, Crater)* at Technicolor India and Harikatha Studio, and pivoted that exact systems-thinking discipline into production AI architecture.
 
 This is not a tutorial repo. Every project here is **live, deployed, and serving real traffic** on AWS infrastructure.
 
